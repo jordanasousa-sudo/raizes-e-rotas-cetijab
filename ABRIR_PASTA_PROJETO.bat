@@ -1,0 +1,3 @@
+@echo off
+echo Abrindo a pasta do projeto Raizes e Rotas - CETIJAB...
+explorer.exe "%~dp0"
